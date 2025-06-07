@@ -33,6 +33,7 @@ A fully functional chess game built with **Python** and **Pygame** — featuring
 ---
 
 ## 📁 Project Structure
+```bash
 ChessEngine/
 ├── Chess/
 │   ├── __init__.py
@@ -48,7 +49,9 @@ ChessEngine/
 ├── .gitignore
 ├── README.md
 ├── run.sh
-└── .venv/  # (optional, for virtual environment)
+└── .venv/              # (optional, for virtual environment)
+```
+
 
 
 ---
